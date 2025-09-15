@@ -1,9 +1,9 @@
-package com.techcamps.gestao.cursos.demo;
+package demo;
 
-import com.techcamps.gestao.cursos.entities.*;
-import com.techcamps.gestao.cursos.models.AlunoModel;
-import com.techcamps.gestao.cursos.models.CursoModel;
-import com.techcamps.gestao.cursos.models.ProfessorModel;
+import entities.*;
+import models.AlunoModel;
+import models.CursoModel;
+import models.ProfessorModel;
 
 import java.util.Arrays;
 import java.util.Date;
